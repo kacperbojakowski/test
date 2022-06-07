@@ -18,9 +18,11 @@ From here, the floor is yours. Read on, train, and chase opportunities. Good luc
 
 ## Step-by-step summary
 
-This is a summary of steps to take on your way to retraining, as presrcibed in the guide. Below you will find a sample retraining plan that you can modify to your preference. Remember: you don't have to wait till you've ticked off all the steps. Look out for job opportunities as you go, and you might be surprised to succeed earlier than planned. If you keep polishing your resume for too long, you might fall into the trap of never being *ready enough*. On the other hand, applying too soon might feel overwhelming. Try to find some middle ground. Think positive and treat every job interview as a valuable lesson, regardless of how it goes.  
+Here is a summary of steps to take on your way to retraining, as presrcibed in the guide. Below you will find a sample retraining plan that you can modify to your preference. Remember: you don't have to wait till you've ticked off all the steps. Look out for job opportunities as you go, and you might be surprised to succeed earlier than planned. If you keep polishing your resume for too long, you might fall into the trap of never being *ready enough*. On the other hand, applying too soon might feel overwhelming. Try to find some middle ground. Think positive and treat every job interview as a valuable lesson, regardless of how it goes.  
 
-#### How to retrain as a technical writer
+### How to become a technical writer
+
+With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for the interview. Good luck!
 
 **PREREQUISITES:** 
 
@@ -38,11 +40,9 @@ This is a summary of steps to take on your way to retraining, as presrcibed in t
 7. **(OPTIONAL)** Sign up for a [postgraduate course](../06-education/5-degrees/) in technical communication.
 8. **(OPTIONAL)** Take the ITCQF course and pass the certification exam.
 9. Write at least one larger and more complex documentation project. Consider using one of these toolsets:
-   
    * Markdown + GitHub Pages
    * OxygenXML + DITA (output: HTML and PDF)
    * MadCap Flare (output: HTML and PDF)
-
 10. **(OPTIONAL)** Start working on an open-source documentation project.
 
 #### Finding employment
