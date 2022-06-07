@@ -7,7 +7,7 @@ search_exclude: true
 
 ## About
 
-[Author⎹](#author) [Project⎹](#project) [References⎹](#references)
+[Author⎹](#author) [Project⎹](#project) [References](#references)
 
 This is a meta-section with information about the guide. Here you will learn about the project: why I made it, how I did it, and what tools I used. You will also find the list of references further down this page.  
 
