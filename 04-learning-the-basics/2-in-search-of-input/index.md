@@ -7,6 +7,8 @@ nav_order: 2
 
 ## In search of input
 
+[What information do you need?⎹](#what-information-do-you-need) [How to get the information you need?⎹](#how-to-get-the-information-you-need) [How to deal with an unresponsive SME?](#how-to-deal-with-an-unresponsive-sme)
+
 ### What information do you need?
 
 To carefully plan and design documentation, you need to know things such as:

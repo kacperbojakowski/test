@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Creating visual content
 
+[Tools you already have⎹](#tools-you-already-have) [Software for professionals](#software-for-professionals)
+
 ### Tools you already have
 
 #### Words of wisdom

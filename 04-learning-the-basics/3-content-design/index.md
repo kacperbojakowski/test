@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Content design
 
+[Persona⎹](#persona) [STE and Plain English⎹](#ste-and-plain-english) [Information architecture⎹](#information-architecture) [Graphic design⎹](#graphic-design) [User experience⎹](#user-experience) [Accessibility⎹](#accessibility) [Testing](#testing)
+
 ### Persona
 
 In technical writing, like in translation, you need to mind your audience. Custom-tailored documents are more effective; they save a lot of time and resources. This works on both ends: your readers get content that suits their needs, and you have an easier task planning the scope of the project. Just think how much bigger this guide would be if I had to include sections on CAT tools and localization. *Oof...* You bet I would have picked another topic. ☺  

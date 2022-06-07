@@ -7,6 +7,8 @@ nav_order: 2
 
 ## Content management and publishing
 
+[Content Management Systems⎹](#content-management-systems) [Help Authoring Tools⎹](#help-authoring-tools) [Static site generators](#static-site-generators)
+
 ### Content Management Systems
 
 Content management systems (CMS) are software solutions for managing digital content; they typically allow users to manage content at a document level. They provide writers with a uniform platform to handle content all in one place: from creation to deployment.  

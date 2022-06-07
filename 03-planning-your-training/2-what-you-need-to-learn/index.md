@@ -7,6 +7,8 @@ nav_order: 2
 
 ## What you need to learn
 
+[Field-specific knowledge⎹](#field-specific-knowledge) [English, perhaps?⎹](#english-perhaps) [Communication and teamwork⎹](#communication-and-teamwork) [A lot of new tools⎹](#a-lot-of-new-tools) [A bit of coding⎹](#a-bit-of-coding) [You Are Gonna Learn It](#you-are-gonna-learn-it)
+
 ### Field-specific knowledge
 
 What we mean by "field-specific" here are two things: 

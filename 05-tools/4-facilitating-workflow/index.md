@@ -7,6 +7,8 @@ nav_order: 4
 
 ## Facilitating workflow
 
+[Version Control System⎹](#version-control-systems) [Project management](#project-management)
+
 ### Version Control Systems
 
 Version Control Systems (VCS) are systems designed for tracking and controlling changes in software source code – though not only! You can just as well use them to track changes in any other type of content within your documentation.  

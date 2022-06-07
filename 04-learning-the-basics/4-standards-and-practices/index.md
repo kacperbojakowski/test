@@ -7,6 +7,8 @@ nav_order: 4
 
 ## Standards and practices
 
+[Docs as Code⎹](#docs-as-code) [Single sourcing⎹](#single-sourcing) [Reuse⎹](#reuse) [DITA](#dita)
+
 ### Docs as Code
 
 As the name suggests, Docs as Code is a philosophy of writing documentation in the way software developers write code. This involves using the same tools and working in the same methodologies as programmers. Practices within Docs as Code include:

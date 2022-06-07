@@ -7,6 +7,8 @@ nav_order: 1
 
 ## Writing and text editing
 
+[WYSIWYG⎹](#wysiwyg) [Source code editors⎹](#source-code-editors) [Markup languages](#markup-languages)
+
 ### WYSIWYG  
 
 WYSIWYG (/ˈwɪzɪwɪɡ/) – this quirky acronym stands for "What You See Is What You Get". It is a type of software, functionality, or user interface, where the content in the editing view visually resembles the intended output. In other words, the way you see a page in the editor is roughly what it will look like when you print it out.     

@@ -7,6 +7,8 @@ nav_order: 4
 
 ## Is technical writing for me?
 
+[Ask yourself some questions⎹](#ask-yourself-some-questions) [You are not alone⎹](#you-are-not-alone) [Try before you buy⎹](#try-before-you-buy) [Write a manual⎹](#write-a-manual) [If you fail to plan, you are planning to fail](#if-you-fail-to-plan-you-are-planning-to-fail)
+
 ### Ask yourself some questions
 
 If in doubt, see if you would answer *YES* to any of these:  

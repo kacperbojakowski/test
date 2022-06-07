@@ -7,6 +7,8 @@ nav_order: 5
 
 ## Degrees
 
+[Are degrees necessary?⎹](#are-degrees-necessary) [Technical communication at university](#technical-communication-at-university)
+
 ### Are degrees necessary?
 
 Degrees are not essential, but they are always a plus.  

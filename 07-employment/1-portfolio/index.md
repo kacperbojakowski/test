@@ -7,6 +7,8 @@ nav_order: 1
 
 ## Portfolio
 
+[What to include?⎹](#what-to-include) [Where to publish?⎹](#where-to-publish) [How to publish your portfolio on GitHub Pages](#how-to-publish-your-portfolio-on-github-pages)
+
 ### What to include?
 
 Anything that makes you proud and attests to your skills, for example:

@@ -7,6 +7,8 @@ nav_order: 3
 
 ## What are the career prospects?
 
+[Outlook⎹](#outlook) [Salary⎹](#salary) [Career advancement⎹](#career-advancement) [Career transition](#career-transition)
+
 ### Outlook
 
 The outlook for technical writers is very positive, but what you'll find online is a mixed bag: from promises of a dream job to automation-themed scaremongering. The truth, like usual, lies in the middle.  

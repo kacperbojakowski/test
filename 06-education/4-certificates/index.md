@@ -7,6 +7,8 @@ nav_order: 4
 
 ## Certificates
 
+[ITCQF⎹](#itcqf) [Tools- and skill-specific courses](#tools--and-skill-specific-courses)
+
 ### ITCQF
 
 [ITCQF](https://itcqf.org/), or International Technical Communication Qualifications Foundation (yes, just stick with the abbreviation), is an organization founded in Kraków, in 2014, by a number of tech comm speciaists. Their mission is to:  

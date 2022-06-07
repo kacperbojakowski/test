@@ -7,6 +7,8 @@ nav_order: 1
 
 ## What you already know
 
+[Technical writers are translators too⎹](#technical-writers-are-translators-too) [Linguistic competence⎹](#linguistic-competence) [Ready to investigate⎹](#ready-to-investigate) [Tools to tick off](#tools-to-tick-off)
+
 ### Technical writers are translators too
 
 In essence, technical writers are already translators – and vice versa. When you write user manuals for complex software or intricate machines, you convey technical concepts into text that is friendly for non-technical readers. You change difficult jargon to simple terms. You account for different target audiences. All of this is much like translating texts from one natural language to another.   

@@ -7,6 +7,8 @@ nav_order: 1
 
 ## Types of deliverables
 
+[Product documentation⎹](#product-documentation) [Training materials⎹](#training-materials) [Process documentation](#process-documentation) 
+
 ### Product documentation
 
 **User guides** are probably what most people think of when they hear about written instructions. Those can include various manuals: quick-start guides, installation guides, how-to guides, and the like. User guides are usually what you find when you're unboxing newly bought gadgets or appliances. They may have a book-like structure and consist of many chapters (e.g., operation instructions, maintenance and cleaning guide, etc.) or they can be a single leaflet with pictures rather than words. They can be in PDF apart from – or instead of – the printed format. User guides can be targeted at regular end users, or they can describe low-level procedures for specialists (e.g., implementation guides for engineers).

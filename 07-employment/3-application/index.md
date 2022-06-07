@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Application
 
+[Where to look for a job?⎹](#where-to-look-for-a-job) [How to search?⎹](#how-to-search) [What to expect from the interview?](#what-to-expect-from-the-interview)
+
 ### Where to look for a job?
 
 Networking can do wonders, so try to get in touch with the [community](../../06-education/2-community/index.md) in any way: open-source projects, conferences, courses etc. Don't forget to make a [LinkedIn](https://www.linkedin.com/) profile and join the Facebook group [Tworzenie dokumentacji](https://www.facebook.com/groups/tworzeniedokumentacji).  

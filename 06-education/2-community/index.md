@@ -7,6 +7,8 @@ nav_order: 2
 
 ## Community
 
+[Open-source projects⎹](#open-source-projects) [Conferences](#conferences)
+
 ### Open-source projects
 
 Open-source projects are great to practice your skills and get in touch with the community. Even if you don't build a strong business network this way, you will surely build a nice portfolio.  

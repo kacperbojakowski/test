@@ -7,6 +7,8 @@ nav_order: 2
 
 ## What does a technical writer do?
 
+[Isn't it ironic?⎹](#isnt-it-ironic) [High- and low-level operations⎹](#high--and-low-level-operations) [The common denominator⎹](#the-common-denominator) [Work environment](#work-environment)
+
 ### Isn't it ironic?
 
 You would probably expect a technical writer to... write, or at least have most of their tasks involve writing. Here comes the surprise. In reality, much of a technical writer's work may not consist in writing at all. It can be editing texts. It can be gathering and synthesizing data. It can be maintaining and reusing content. It can even be writing some code, but not necessarily writing in human-readable language. This, of course, will differ from job to job, sometimes dramatically. Unfortunately, the obscurity is here to stay until everyone agrees on what technical writing actually is – and that doesn't seem to be coming anytime soon.  

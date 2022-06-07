@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Online courses
 
+[You won't learn by watching⎹](#you-wont-learn-by-watching) [Should you pay for materials?⎹](#should-you-pay-for-materials) [MOOC providers⎹](#mooc-providers) [Free recommendations](#free-recommendations)
+
 ### You won't learn by watching
 
 You won't learn by watching *only*, that is. You can easily fall into the trap of *thinking* you are learning. Video courses may look good, but they tell in 50 minutes what can be read in 10. If you find yourself watching idly without exercising, move on!

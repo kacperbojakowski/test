@@ -7,6 +7,8 @@ nav_order: 2
 
 ## Resume
 
+[Your first technical document⎹](#your-first-technical-document) [Be original⎹](#be-original) [General tips](#general-tips)
+
 ### Your first technical document
 
 Treat your resume (or *CV*, if you prefer) like your first serious *technical* document. Pay attention to:  
