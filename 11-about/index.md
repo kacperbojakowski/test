@@ -13,15 +13,15 @@ Speaking of references, feel free to use, share, and quote this guide in parts o
 
 🖊️ **NOTE:** This section has been excluded from the search; you can access it only through the navbar.  
 
-## Author
+### Author
 
 Hi, my name is [Kacper](https://github.com/kacperbojakowski) and I am the author of this guide. As of 2022, I am also on my way to retraining as a technical writer. I wrote this guide as my student project for the [postgraduate course](../06-education/5-degrees/index.md/#technical-communication-at-university) I am currently taking at Vistula University in Warsaw.  
 
 You can contact me at <kacperbojakowski@gmail.com>.  
 
-## Project
+### Project
 
-### General information
+#### General information
 
 **Original topic:** "Od zera do Tech Writera – jak się przebranżowić?"  
 **Persona:** Translator retraining as a technical writer     
@@ -31,7 +31,7 @@ You can contact me at <kacperbojakowski@gmail.com>.
 **Supervisor:** Dariusz Drezno  
 **Peer reviewer:** Michał Olender  
 
-### Description
+#### Description
 
 I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a reason. I wanted to make a reminder for myself and others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope, then, that this one here is a good one.  
 
@@ -59,7 +59,7 @@ The reason why I didn't use Plain English is *plain* – the persona. Translator
 
 Thanks to Michał Olender for his peer review and tips on styling, structure, admonitions, etc. What I didn't manage to improve on (time constraints), I will surely keep in mind for the future.  
 
-## References
+### References
 
 #### Print sources
 
