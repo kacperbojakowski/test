@@ -7,6 +7,8 @@ search_exclude: true
 
 # About
 
+[Author⎹](#author) [Project⎹](#project) [Description⎹](#description) [References](#references)
+
 ## Author
 
 Hi, my name is [Kacper](https://github.com/kacperbojakowski) and I am the author of this guide. As of 2022, I am also on my way to retraining as a technical writer. I wrote this guide as my student project for the [postgraduate course](../06-education/5-degrees/index.md/#technical-communication-at-university) I am currently taking at Vistula University in Warsaw.  
