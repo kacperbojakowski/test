@@ -11,8 +11,6 @@ nav_order: 1
 
 ### Reviewing existing documentation
 
-#### Framework for studying docs
-
 Begin your self-teaching with a resolution: next time you open the box of a newly-bought gadget or appliance, do what no sane person would do – *actually read the manual*.  
 
 While reading, pay attention to these elements and aspects:
@@ -62,9 +60,7 @@ There might be moments when you think: *"OK, how do I know if this practice is g
 
 Sometimes you won't find a clear answer. Trends in tech comm are changing and there are always some conflicting views. You are a user, though, so you have a say in this too. I love navbars that collapse on scroll. My friend hates them. *What about you?*  
 
-#### Reading suggestions
-
-Reading any documentation would be a good idea, but if you're really pressed for time, you can kill two birds with one stone: 
+As for reading suggestions, any documentation should work, but if you're really pressed for time, you can kill two birds with one stone: 
 
 * Read manuals for the products you buy.
 * Read documentation (including tutorials) for the tools and technologies you learn (e.g., [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)).
