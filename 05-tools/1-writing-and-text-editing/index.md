@@ -58,8 +58,6 @@ To install, go to *Extensions* (top-left corner, icon with four squares) → cli
 
 ### Markup languages
 
-#### Not programming languages
-
 Sometimes, for the uninitiated, any "code", i.e., a string of keyboard symbols other than letters and standard punctuation, looks like a "programming language". I might be preaching to the choir here, but let's make it clear: markups are not programming languages.  
 
 With programming languages, people tell computers to perform tasks; they write algorithmic instructions for computers to execute. Programming languages are used for creating programs.

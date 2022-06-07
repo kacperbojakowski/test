@@ -11,8 +11,6 @@ nav_order: 3
 
 ### Tools you already have
 
-#### Words of wisdom
-
 > ❝*Software is like sex: it's better when it's free.*❞   
 > — [Linus Torvalds](https://twitter.com/linus__torvalds/status/296333253571387392?lang=en)
 
