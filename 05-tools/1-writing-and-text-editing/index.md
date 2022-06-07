@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Writing and text editing
 
-[WYSIWYG⎹](#wysiwyg) [Source code editors⎹](#source-code-editors) [Markup languages](#markup-languages)
+[WYSIWYG⎹](#wysiwyg) [Source code editors⎹](#source-code-editors) [Markup languages ┆](#markup-languages) [HTML ┆](#html) [Markdown ┆](#markdown) [XML ┆](#xml) [Markup comparison table](#markup-comparison-table)
 
 ### WYSIWYG  
 
