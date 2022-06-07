@@ -42,9 +42,11 @@ There are other tech- and content-related jobs out there that you might consider
 
 ### What to expect from the interview?
 
+You can definitely expect stress, followed by a question on how well you handle stress. Then there's the boilerplate "Where do you see yourself in five years?" and the like. You know the drill. What you should really prepare for are questions – and tasks (!) – specific for technical writing positions. More on this below.  
+
 #### Questions
 
-Apart from typical talk about your motivations, experience, and the like, you can expect questions on field-specific (technical) topics. Those will vary, so look for hints in the requirements. If it's API documentation, then you should probably know what an [endpoint](../../09-glossary/index.md/#e) is. If it's writing docs for a web app, be ready to explain what HTML, HTTP, IP, or the Internet is (sounds easier than it is, right?). If it's corporate process docs, find out more about the company you're applying for; and so on. You get the idea.  
+Apart from the typical talk about your motivations and experience, you can expect questions on field-specific (technical) topics. Those will vary, so look for hints in the requirements. If it's API documentation, you should probably know what an [endpoint](../../09-glossary/index.md/#e) is. If it's writing docs for a web app, be ready to explain what HTML, HTTP, IP, or the Internet is (sounds easier than it is!). If it's corporate process docs, find out more about the company you're applying for, and so on. You get the idea.  
 
 Other questions may concern issues that technical writers, regardless of the sector, deal with on regular basis. Those could be for example:  
 
