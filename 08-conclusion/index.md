@@ -8,21 +8,17 @@ nav_order: 8
 
 # Conclusion
 
-## Final thoughts
-
 Congratulations! If you're really reading this as a conclusion (i.e., you've covered all the topics before), then you have shown some resilience! That's great: you might need it to power through even wordier docs in the future.  
 
 I hope you enjoyed it and found it useful. If not – that's fine too! We read good documentation to learn how to write, but learning how *not to write* is no less important. You can find opportunities for growth in anything if you search deeply enough (*just don't nag your SME too much!*).
 
-From here, the floor is yours. Read on, train, and chase opportunities. Good luck!  
+Before you go, check out the step-by-step summary below. It's a sample plan for you to modify or follow as is. Remember: you don't have to wait till you've ticked all the steps off. Look out for job offers as you go, and you might succeed earlier than planned. Don't fall into the trap of never being *ready enough* – but don't come unprepared either. Try to find some middle ground. Think positive and treat every interview as a valuable lesson, regardless of how it goes. It's part of the training.  
 
-## Step-by-step summary
+From here, the floor is yours. Read on, practice, and chase opportunities. Good luck!  
 
-Here is a summary of steps to take on your way to retraining, as presrcibed in the guide. Below you will find a sample retraining plan that you can modify to your preference. Remember: you don't have to wait till you've ticked off all the steps. Look out for job opportunities as you go, and you might be surprised to succeed earlier than planned. If you keep polishing your resume for too long, you might fall into the trap of never being *ready enough*. On the other hand, applying too soon might feel overwhelming. Try to find some middle ground. Think positive and treat every job interview as a valuable lesson, regardless of how it goes.  
+### How to become a technical writer – a step-by-step summary
 
-### How to become a technical writer
-
-With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for the interview.
+With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for an interview.  
 
 **PREREQUISITES:**
 
