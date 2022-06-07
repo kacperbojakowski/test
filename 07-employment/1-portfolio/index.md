@@ -27,8 +27,15 @@ Attaching projects to emails can be awkward, if not impossible (file size limits
 First, you will need a hosting service to upload your resources. If you have a blog or a website where you can store and share your files – and you know how to – that's one option. If you'd rather follow a simple method with few technicalities – read on.
 
 ### How to publish your portfolio on GitHub Pages  
+
+GitHub is a cloud-based development platform that provides repository hosting services and user interface for [Git](../../05-tools/4-facilitating-workflow/index.md/#version-control-systems). For many IT specialists, it is also the default go-to service for showcasing their projects to the world.  
+
+In this tutorial, you will learn how to publish your portfolio on GitHub. You will first upload your files to the server and then deploy your projects as fully-working websites hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).  
+
+When you publish your portfolio on GitHub, your recruiters will see the end result of your work as well as the code behind your projects. You will also show that you know about version control systems and static site generators.  
   
-**Prerequisites:**  
+**PREREQUISITES:**
+
    * Basic knowledge of [Git](../../05-tools/4-facilitating-workflow/index.md/#version-control-systems), [GitHub](../../05-tools/4-facilitating-workflow/index.md/#version-control-systems), and [static site generators](../../05-tools/2-content-management-and-publishing/index.md/#static-site-generators).
    * At least one valid document in a web format: [HTML](../../05-tools/1-writing-and-text-editing/index.md/#html) or [Markdown](../../05-tools/1-writing-and-text-editing/index.md/#markdown).
    * A user account set up on [GitHub](https://github.com/).

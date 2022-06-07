@@ -24,7 +24,7 @@ Here is a summary of steps to take on your way to retraining, as presrcibed in t
 
 With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for the interview. Good luck!
 
-**PREREQUISITES:** 
+**PREREQUISITES:**
 
  * Assess your current [transferable skills](../03-planning-your-training/1-what-you-already-know/).
  * Identify [areas to work on](../03-planning-your-training/2-what-you-need-to-learn/).  
