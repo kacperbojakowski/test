@@ -22,7 +22,7 @@ Here is a summary of steps to take on your way to retraining, as presrcibed in t
 
 ### How to become a technical writer
 
-With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for the interview. Good luck!
+With your experience in translation, moving to technical writing should be fairly smooth. Follow the steps below to plan your training, learn new tools, build your portfolio, and prepare for the interview.
 
 **PREREQUISITES:**
 
