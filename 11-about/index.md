@@ -9,7 +9,7 @@ search_exclude: true
 
 [Author⎹](#author) [Project⎹](#project) [References](#references)
 
-This is a meta-section with information about the guide. Here you will learn about the project: why I made it, how I did it, and what tools I used. You will also find the list of references further down this page.  
+This is a meta-section with information about the guide. Here you will learn about the project: why I did it, how I did it, and what tools I used. You will also find the list of references further down this page.  
 
 Speaking of references, feel free to use, share, and quote this guide in parts or as a whole. I hope someone finds it useful for the purpose of learning, teaching, or preaching about the value of technical writing and documentation – now that would be cool! If you ever cite my scribble, I'd appreciate a mention. Thanks!  
 
