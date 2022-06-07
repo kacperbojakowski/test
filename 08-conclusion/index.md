@@ -22,7 +22,7 @@ This is a summary of steps to take on your way to retraining, as presrcibed in t
 
 #### How to retrain as a technical writer
 
-**PREREQUISITES:**
+**PREREQUISITES:** 
 
  * Assess your current [transferable skills](../03-planning-your-training/1-what-you-already-know/).
  * Check [areas to work on](../03-planning-your-training/2-what-you-need-to-learn/).  
