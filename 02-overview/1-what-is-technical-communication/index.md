@@ -7,6 +7,8 @@ nav_order: 1
 
 ## What is technical communication?
 
+[Does exactly what it says on the tin](#does-exactly-what-it-says-on-the-tin) | [Projects of many stages](#projects-of-many-stages) | [What disciplines are there in tech comm?](#what-disciplines-are-there-in-tech-comm) | [Technical writer – how important?](#technical-writer--how-important)
+
 ### Does exactly what it says on the tin
 
 Especially if the tin features meal prep instructions!  
