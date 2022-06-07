@@ -23,8 +23,6 @@ You can contact me at <kacperbojakowski@gmail.com>.
 
 ### Project
 
-**GENERAL INFORMATION**
-
 **Original topic:** "Od zera do Tech Writera – jak się przebranżowić?"  
 **Persona:** Translator retraining as a technical writer     
 **Tools:** [Markdown](https://daringfireball.net/projects/markdown/), [Jekyll](https://jekyllrb.com/), [Just the Docs](https://github.com/just-the-docs/just-the-docs/)  
@@ -32,8 +30,6 @@ You can contact me at <kacperbojakowski@gmail.com>.
 **Software:** [Visual Studio Code](https://code.visualstudio.com/), [GitHub Desktop](https://desktop.github.com/), [GIMP](https://www.gimp.org/), [Snagit](https://www.techsmith.com/screen-capture.html), [Diagrams.net](https://app.diagrams.net/), [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  
 **Supervisor:** Dariusz Drezno  
 **Peer reviewer:** Michał Olender  
-
-**DESCRIPTION**
 
 I selected the topic from a list provided by the class instructors. My choice was self-referential, if not a bit ironic, but with a reason. I wanted to make a reminder for myself and others in training to stay motivated in pursuit of success in the new field. I believe that with a good manual, no matter what the task is, failure is not an option. I should hope, then, that this one here is a good one.  
 
