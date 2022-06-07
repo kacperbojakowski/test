@@ -20,7 +20,9 @@ From here, the floor is yours. Read on, train, and chase opportunities. Good luc
 
 This is a summary of steps to take on your way to retraining, as presrcibed in the guide. Below you will find a sample retraining plan that you can modify to your preference. Remember: you don't have to wait till you've ticked off all the steps. Look out for job opportunities as you go, and you might be surprised to succeed earlier than planned. If you keep polishing your resume for too long, you might fall into the trap of never being *ready enough*. On the other hand, applying too soon might feel overwhelming. Try to find some middle ground. Think positive and treat every job interview as a valuable lesson, regardless of how it goes.  
 
-**Prerequisites:**
+#### How to retrain as a technical writer
+
+**PREREQUISITES:**
 
  * Assess your current [transferable skills](../03-planning-your-training/1-what-you-already-know/).
  * Check [areas to work on](../03-planning-your-training/2-what-you-need-to-learn/).  
