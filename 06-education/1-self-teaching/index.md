@@ -7,7 +7,11 @@ nav_order: 1
 
 ## Self-teaching
 
+---
+
 [Reviewing existing documentation⎹](#reviewing-existing-documentation) [Blogs and podcasts⎹](#blogs-and-podcasts) [Books⎹](#books) [Writing](#writing)
+
+---
 
 ### Reviewing existing documentation
 
