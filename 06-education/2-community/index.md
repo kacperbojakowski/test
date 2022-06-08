@@ -7,6 +7,8 @@ nav_order: 2
 
 ## Community
 
+---
+
 [Open-source projects⎹](#open-source-projects) [Conferences](#conferences)
 
 ### Open-source projects
