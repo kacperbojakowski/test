@@ -36,30 +36,30 @@ SME's input is crucial for your project. Unfortunately, they are *terribly busy*
 
 ### How to deal with an unresponsive SME?
 
-#### Get to know them better
+**GET TO KNOW THEM BETTER**
 
 Technical writing is about communicating things *to* people as much as communicating *with* people – and people include your SMEs. Sure, they may design machines and all, but they are not machines themselves. Don’t be a robot, then; approach them and say "hi" (or "hello world"). Catch them at break, have a chat, and build some rapport. They won’t say no to a friend in need.
 
-#### Use some healthy manipulation
+**USE SOME HEALTHY MANIPULATION**
 
 People feel more obliged to do you a favor if you give them something first. It doesn’t have to be much; in fact, they don’t even have to need it. It’s the gesture that matters. Keep that in mind and offer your SME some help here and there, especially when it doesn’t cost you much. When you finally approach them with questions, avoid negative connotations. Don’t be "sorry for *bothering* them", be "sorry for *needing their expertise*".
 
-#### Be concise and well-prepared
+**BE CONCISE AND WELL-PREPARED**
 
 Random inquiries are the last thing busy SMEs need in their hectic schedules. Show your understanding by coming prepared and keeping things short. As a bonus, if you ask concise and simple questions, you’re probably going to get the information you need faster. It’s not only the SME’s time you’re saving!
 
-#### Learn to speak their language
+**LEARN TO SPEAK THEIR LANGUAGE**
 
 > ❝ *If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart.* ❞  
 >— [Unknown](https://scholar.harvard.edu/pierredegalbert/node/632263)
 
 Talk to a math enthusiast in equations and their eyes will light up in an instant. The same applies here. Technical jargon facilitates professional debates, but serves a social purpose too. It builds solidarity and opens your door to the caste of experts. SMEs will appreciate that you refer to things their way. Besides, strict terminology curbs ambiguity, so you will get your message across more efficiently.
 
-#### Escalate when all else fails
+**ESCALATE WHEN ALL ELSE FAILS**
 
 Treat it as the last resort, as you might burn bridges in the process. Colleagues don’t like snitching. Managers don’t like dependency. You’re basically risking on all fronts. However, when an SME won’t cooperate despite your best efforts – escalate away! That SME is effectively sabotaging the project, and your manager should realize that as well.
 
-#### Work on changing the narrative
+**WORK ON CHANGING THE NARRATIVE**
 
 When developers see a bug in the code, they don’t shrug it off. They’re on it, right away. It’s serious. Code is essential for the product to be functional – unlike your deliverables. You can’t expect documentation to get the same priority, but you can at least raise people’s awareness of its importance. Promote the value of technical communication and show people that your contribution matters. Then, one day – who knows – your SME might be a tiny bit happier to see you!  
 
